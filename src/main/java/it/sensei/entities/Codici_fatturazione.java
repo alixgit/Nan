@@ -37,6 +37,7 @@ public class Codici_fatturazione implements Serializable {
 //    @JoinTable (name="codici_fatturazione", joinColumns = {@JoinColumn(name = "cdft_descrizione", referencedColumnName= "cl_pagamento_consolidato")})
 //    //@JoinColumn(name="cl_pagamento_consolidato")
 //    private Clienti cliente3;
+    
 
     public Codici_fatturazione() {
     }
